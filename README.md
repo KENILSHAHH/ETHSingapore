@@ -2,5 +2,6 @@
 
 A Charity smart contract for developed and transparent charity donations
 This charity smart contract allows you to create Donations, add programs, get donor info, get donation amounts, withdraw funds, etc
+
 Smart Contract deployed on NeonEVM testnet 
-https://devnet.neonscan.org/tx/0xfe98159b3b95ea9aacf83923cb85f15a9ddf45df2dd6f121f64f0c8e49f54d13
+https://devnet.neonscan.org/address/0x50d146d26a40721fce72bcf0ae95d56f5d4aa7c0
